@@ -2,4 +2,8 @@
 
 coming from our teammate.
 
-they commit and push on their computer
+they commit and push on their computer.
+
+Part2 updates, adding more text. 
+
+making extra changes, remote.
